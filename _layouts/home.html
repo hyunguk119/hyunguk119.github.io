@@ -18,5 +18,11 @@ layout: archive
     {% include archive-single.html type=entries_layout %}
   {% endfor %}
 </div>
-
+<dvi class="col-lg-4 col-md-2">
+  <ul>
+  {% for category in site.categorise %}
+    <li>{{ category | first}} ({{ category | last | size }})</li>
+  {% endfor %}
+  </ul>  
+</div> 
 {% include paginator.html %}
