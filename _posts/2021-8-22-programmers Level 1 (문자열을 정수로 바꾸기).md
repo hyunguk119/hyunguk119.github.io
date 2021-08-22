@@ -1,11 +1,3 @@
----
-layout: post
-title:  "프로그래머스 Level 1 (문자열을 정수로 바꾸기)"
-author: hyunguk
-date: '2021-8-22'
-category: programmers
----
-
 # 프로그래머스 Level 1 (문자열을 정수로 바꾸기)
 
 ##### 문제 설명
