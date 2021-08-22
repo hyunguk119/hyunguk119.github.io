@@ -1,3 +1,6 @@
+---
+categorise: ['programing','programmers']
+---
 # 프로그래머스 Level 1 (평균 구하기)
 
 ##### 문제 설명
