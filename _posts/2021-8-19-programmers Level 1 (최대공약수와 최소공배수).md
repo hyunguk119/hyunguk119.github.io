@@ -1,3 +1,6 @@
+---
+categorise: ['programing','programmers']
+---
 # 프로그래머스 Level 1 (최대공약수와 최소공배수)
 
 ##### 문제 설명
