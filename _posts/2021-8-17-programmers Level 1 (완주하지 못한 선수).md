@@ -1,3 +1,6 @@
+---
+categorise: ['programing','programmers']
+---
 # 프로그래머스 Level 1 (완주하지 못한 선수)
 
 ##### 문제 설명
