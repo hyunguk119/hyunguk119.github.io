@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : "hyunguk blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "유현국"
-description              : "나의 공부 이야기."
+name                     : "현국이의 일기장"
+description              : "개발자가 되어 가는 나의 공부 이야기."
 url                      : "https://hyunguk119.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -96,8 +96,8 @@ analytics:
 author:
   name             : "유현국"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "나의 공부 이야기."
-  location         : "평택"
+  bio              : "마이스터고 전기전자과에서 개발자가 되고 싶은 꿈이 생겨 전공을 바꾸어 포기하지 않고 열심히 노력하는 나의 인생 이야기."
+  location         : "Pyeongtaek,"
   email            : "hyunguk119@gmail.com
   links:
     - label: "Email"
@@ -276,7 +276,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: # true
       share: true
       related: true
