@@ -265,7 +265,10 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
+comments:
+  provider               : "disqus"
+  disqus:
+    shortname            : dev-hundred-blog
 
 # Defaults
 defaults:
