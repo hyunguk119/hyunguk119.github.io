@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko"
-title                    : "hyunguk blog"
+title                    : "현국이의 일기장"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "현국이의 일기장"
@@ -95,8 +95,8 @@ analytics:
 # Site Author
 author:
   name             : 'Hyunkuk'
-  bio              : "abc"
-  location         : "Pyeongtaek,"
+  bio              : "마이스터고 전기전자제어과에서 개발자의 꿈을 가지게 되어 노력하는 이야기"
+  location         : "Pyeongtaek"
   email            : "hyunguk119@gmail.com"
   links:
     - label: "Email"
