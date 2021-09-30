@@ -94,11 +94,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "유현국"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "마이스터고 전기전자과에서 개발자가 되고 싶은 꿈이 생겨 전공을 바꾸어 포기하지 않고 열심히 노력하는 나의 인생 이야기."
+  name             : 'Hyunkuk'
+  bio              : "abc"
   location         : "Pyeongtaek,"
-  email            : "hyunguk119@gmail.com
+  email            : "hyunguk119@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
