@@ -98,7 +98,7 @@ author:
   bio              : "마이스터고 전기전자제어과에서 개발자의 꿈을 가지게 되어 노력하는 이야기"
   location         : "Pyeongtaek"
   email            : "hyunguk119@gmail.com"
-  github: "https://github.com/hyunguk119"
+  github: "hyunguk119"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
