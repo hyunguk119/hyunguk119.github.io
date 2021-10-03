@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : 'Hyunkuk'
-  avatar           : "./tmp/IMG_1733.jpg"
+  avatar           : "tmp/IMG_1733.jpg"
   bio              : "마이스터고 전기전자제어과에서 개발자의 꿈을 가지게 되어 노력하는 이야기"
   location         : "Pyeongtaek"
   email            : "hyunguk119@gmail.com"
